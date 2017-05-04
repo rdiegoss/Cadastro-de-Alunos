@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CadastroAluno</string>
+    <string name="action_settings">Configurações</string>
+    <string name="nome_aluno">Nome do Aluno</string>
+    <string name="add_aluno">Adicionar Aluno</string>
+    <string name="foto_aluno">Foto do Aluno</string>
+    <string name="nome">Nome</string>
+    <string name="Telefone">Telefone</string>
+    <string name="salvar_dados">Salvar Dados</string>
+    
+    <!--Itens menu-->
+    <string name="novo">Novo</string>
+    <string name="mapa">Mapa</string>
+    <string name="mais_opcoes">Mais Opções</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="provas">Provas</string>
+</resources>
